@@ -23,7 +23,7 @@ User Query → Topic Extraction → 5-Step Research Process → Comprehensive Re
 1. **Wikipedia Overview**: Gather background information and context
 2. **Keyword Extraction**: Identify 3-5 key terms from Wikipedia summary
 3. **arXiv Search**: Find relevant research papers from the last 6 years
-4. **Relevance Filtering**: Score and select most relevant papers (>5% relevance threshold)
+4. **Relevance Filtering**: Score and select most relevant papers (>40% relevance threshold)
 5. **Response Synthesis**: Combine Wikipedia knowledge with research findings
 
 ### Query Types Supported:
